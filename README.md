@@ -1,4 +1,4 @@
-# Emporium site Hamza
+# Emporium
 
 ## Voici quelque definitions des technologies que j'ai utilisé.
 
